@@ -10,7 +10,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 * And at last, our model predict the age and gender for the provided image.
 
 ## To run the code:
-1. Clone the github repository in your computer. ```git clone https://github.com/AmolAgarwal12/Gender-Age-Predictor.git```
+1. Clone the github repository in your computer. ```git clone https://github.com/AmolAgarwal12/Gender-And-Age-Prediction-Project.git```
 2. Run ```age_and_gender.ipynb``` file which can be run on any environment like Jupyter Notebook, Google colab etc. It is training file.
 3. Testing file : ```Testing.ipynb```
 4. That's it.
